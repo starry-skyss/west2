@@ -1,6 +1,6 @@
 import random
 l=['1','2','3','4','5','6','7','8','9','10','J','Q','K']
-print(l)
+#print(l)
 l=l+l+l+l
 l=l+['king','kinglet']
 #print(l)
@@ -15,10 +15,10 @@ l1=s.join(l1)
 l2=s.join(l2)
 l3=s.join(l3)
 l4=s.join(l4)
-print(l1)
-print(l2)
-print(l3)
-print(l4)
+#print(l1)
+#print(l2)
+#print(l3)
+#print(l4)
 w=open('player1.txt','w')
 w.write(l1)
 w=open('player2.txt','w')
