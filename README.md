@@ -5,7 +5,6 @@ int main(){
   print("hello world");
   return 0;
 }
+
 ```python
-{
 print('hello world!')
-}
