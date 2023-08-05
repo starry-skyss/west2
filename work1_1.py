@@ -23,3 +23,7 @@ for j in range(len(l)-1):
             l[i]=l[i+1]
             l[i+1]=m
 print('%d %d %d' %(l[0],l[1],l[2]))
+li=[a,b,c]
+li.sort()
+li.reverse()
+print('%d %d %d' %(li[0],li[1],li[2]))
